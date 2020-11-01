@@ -1,0 +1,5 @@
+# teaksoo ignore file - golnag#
+
+pkg/
+bin/
+.vscode/
